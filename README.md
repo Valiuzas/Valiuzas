@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Valiuzas
 - 👀 I’m interested in learning Front End
-- 🌱 I’m currently learning HTML, CSS
+- 🌱 I’m currently learning HTML, CSS, JS
 - 💞️ I’m looking to collaborate on learning together
 - 📫 How to reach me valiuzas@gmail.com
 
